@@ -54,6 +54,9 @@ Installation :
 
 Uploading images:
 ![Image](https://raw.githubusercontent.com/Saika118/Assignment-3/main/2.1.JPG)
+![Image](https://raw.githubusercontent.com/Saika118/Assignment-3/main/0e0b21b5-032f-4e57-8f0e-df9e46abc6cc.png)
+![Image](https://raw.githubusercontent.com/Saika118/Assignment-3/main/0e0b21b5-032f-4e57-8f0e-df9e46abc6cc.png)
+
 
 Verification:
 ![Image](https://raw.githubusercontent.com/Saika118/Assignment-3/main/3.1.JPG)
