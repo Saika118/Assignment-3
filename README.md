@@ -57,3 +57,13 @@ Output:
 6. Conclusion:
 
 An end-to-end facial recognition pipeline appropriate for actual user-facing applications is offered by the advanced, well-designed open-source project DeepFace. For developers creating ML-powered identity and face-matching products, its modular design, several deep learning backbones, and transparent verification logic make it both dependable and approachable.I conducted a practical test to confirm that DeepFace operates consistently and produces transparent outputs that are appropriate for integration and analysis. This project demonstrates how software engineering procedures and deep neural network components are balanced in open-source machine learning systems to provide end users with useful functionality.
+## Evidence Screenshots
+
+### Installation
+![Install](https://github.com/YOUR_USERNAME/Assignment-3/blob/main/1.1.JPG?raw=true)
+
+### Uploaded Images
+![Uploaded Images](https://github.com/YOUR_USERNAME/Assignment-3/blob/main/2.1.JPG?raw=true)
+
+### DeepFace Output
+![DeepFace Output](https://github.com/YOUR_USERNAME/Assignment-3/blob/main/010d3124-c671-4cf6-80d8-8bb84348e2a4.png?raw=true)
