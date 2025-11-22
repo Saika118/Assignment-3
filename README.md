@@ -49,7 +49,7 @@ Does not have an integrated graphical user interface.
 4. I installed and tested DeepFace using a lightweight Google Colab environment.
 
 Installation :
-![Image 1](https://github.com/YOUR_USERNAME/Assignment-3/blob/main/1.1.JPG?raw=true)
+![Image 1](https://github.com/Saika118/Assignment-3/blob/main/1.1.JPG?raw=true)
 
 Uploading images:
 Verification:
