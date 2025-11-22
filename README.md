@@ -49,13 +49,18 @@ Does not have an integrated graphical user interface.
 4. I installed and tested DeepFace using a lightweight Google Colab environment.
 
 Installation :
-![Image 1](https://github.com/Saika118/Assignment-3/blob/main/1.1.JPG?raw=true)
+![Image](https://raw.githubusercontent.com/Saika118/Assignment-3/main/1.1.JPG)
+
 
 Uploading images:
-![Uploaded Images](https://github.com/Saika118/Assignment-3/blob/main/2.1.JPG?raw=true)
+![Image](https://raw.githubusercontent.com/Saika118/Assignment-3/main/2.1.JPG)
+
 Verification:
+![Image](https://raw.githubusercontent.com/Saika118/Assignment-3/main/3.1.JPG)
+
 Output:
-![DeepFace Output](https://github.com/Saika118/Assignment-3/blob/main/010d3124-c671-4cf6-80d8-8bb84348e2a4.png?raw=true)
+![Image](https://raw.githubusercontent.com/Saika118/Assignment-3/main/4.1.JPG)
+
 6. Conclusion:
 
 An end-to-end facial recognition pipeline appropriate for actual user-facing applications is offered by the advanced, well-designed open-source project DeepFace. For developers creating ML-powered identity and face-matching products, its modular design, several deep learning backbones, and transparent verification logic make it both dependable and approachable.I conducted a practical test to confirm that DeepFace operates consistently and produces transparent outputs that are appropriate for integration and analysis. This project demonstrates how software engineering procedures and deep neural network components are balanced in open-source machine learning systems to provide end users with useful functionality.
